@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dongwoo Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Patterning your life around other's opinions is nothing more than **slavery**."
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
